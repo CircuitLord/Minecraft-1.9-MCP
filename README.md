@@ -1,2 +1,1 @@
-"# Minecraft-1.9-MCP" 
-"# Minecraft-1.9-MCP" 
+This is a private repository, please no cloning or editing.

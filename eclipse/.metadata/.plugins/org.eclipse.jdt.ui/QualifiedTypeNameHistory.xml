@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.minecraft.network.play.client.CPacketPlayerDigging"/>
+<fullyQualifiedTypeName name="net.minecraft.network.play.client.CPacketPlayerDigging.Action"/>
+<fullyQualifiedTypeName name="net.minecraft.network.play.client.CPacketPlayer"/>
+<fullyQualifiedTypeName name="net.minecraft.network.play.client.CPacketPlayerAbilities"/>
+<fullyQualifiedTypeName name="net.minecraft.inventory.Container"/>
+<fullyQualifiedTypeName name="net.minecraft.inventory.Slot"/>
+<fullyQualifiedTypeName name="net.minecraft.inventory.ClickType"/>
+</qualifiedTypeNameHistroy>
